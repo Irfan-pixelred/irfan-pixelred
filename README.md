@@ -3,33 +3,35 @@
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
 - <b>VulnHub Machines</b>
-  - [namehere](https://github.com/irfan-pixelred/folder)
+  - [VulnHub: Kioptrix Level 1 - Samba Remote Code Execution (CVE-2003-0201)](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/Kioptrix1.md)
+  - [VulnHub: Mr. Robot - WordPress Enumeration, Credential Hacking & SUID Privilege Escalation](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/MrRobot.md)
+  - [VulnHub: Brainpan 1 - Cross-Platform Windows Binary Reverse Engineering & Linux Buffer Overflow Exploitation](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/Brainpan1.md)
+  - [VulnHub: VulnOS v2 - Web App Package Exploitation & Linux Kernel Privilege Escalation](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/VulnOS2.md)
 - <b>OWASP Juice Shop</b>
-  - [namehere](https://github.com/irfan-pixelred/folder) <b><i>(anytext, if not delete)</b></i>
+  - [OWASP Juice Shop: Comprehensive Application Security Assessment & OWASP Top 10 Audit](https://github.com/irfan-pixelred/Web-Application-Security/JuiceShop/OWASP_Top_10_Audit.md) <b><i>(with 40+ more audit)</b></i>
 - <b>PicoCTF</b>
-  - [namehere](https://github.com/irfan-pixelred/folder)
-  - [namehere](https://github.com/irfan-pixelred/folder)
-  - [namehere](https://github.com/irfan-pixelred/folder)
-  - [namehere](https://github.com/irfan-pixelred/folder)
-- <b>CTFtime</b>
-  - [namehere](https://github.com/irfan-pixelred/folder)
-  - [namehere](https://github.com/irfan-pixelred/folder)
-  - [namehere](https://github.com/irfan-pixelred/folder)
+  - [PicoCTF: Web Exploitation](https://github.com/irfan-pixelred/CTF-Writeups/PicoCTF/Web_Exploitation.md)
+  - [PicoCTF: Reverse Engineering](https://github.com/irfan-pixelred/CTF-Writeups/PicoCTF/Reverse_Engineering.md)
+  - [PicoCTF: Cryptography](https://github.com/irfan-pixelred/CTF-Writeups/PicoCTF/Cryptography.md)
+  - [PicoCTF: Forensics](https://github.com/irfan-pixelred/CTF-Writeups/PicoCTF/Digital_Forensics.md)
+- <b>CTFtime Archive Challenges</b>
+  - [CTFtime Archive: Binary Exploitation (Pwn)](https://github.com/irfan-pixelred/CTF-Writeups/CTFtime/Binary_Exploitation.md)
+  - [CTFtime Archive: Web Security](https://github.com/irfan-pixelred/CTFtime/Advanced_Web.md)
 - <b>PortSwigger Academy</b>
-  - [namehere](https://github.com/irfan-pixelred/folder)
+  - [PortSwigger: SQL Injection (SQLi) Labs](https://github.com/irfan-pixelred/Web-Application-Security/PortSwigger/SQL_Injection.md)
+  - [PortSwigger: Server-Side Request Forgery (SSRF) Labs](https://github.com/irfan-pixelred/Web-Application-Security/PortSwigger/SSRF_Attacks.md)
+  - [PortSwigger: Cross-Site Scripting (XSS) Labs](https://github.com/irfan-pixelred/Web-Application-Security/PortSwigger/XSS_Exploitation.md)
 
-<h2>📜 Certifications</h2>
+<h2>📚 Certifications & Target Path</h2>
 
 - <b>OSCP (Offensive Security Certified Professional</b>
-  - [My OSCP Journey](https://github.com/irfan-pixelred/folder)
+  - My dream
 - <b>CRTO (Certified Red Team Operator)</b>
-  - [My CRTO Journey](https://github.com/irfan-pixelred/folder)
+  - In Progress
 - <b>OSEP (OffSec Experienced Penetration Tester</b>
-  - [My OSEP Journey)](https://github.com/irfan-pixelred/folder)
-- <b>other cert</b>
-  - [cert](https://github.com/irfan-pixelred/folder)
-- <b>other cert</b>
-  - [cert](https://github.com/irfan-pixelred/folder)
+  - In Progress
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
