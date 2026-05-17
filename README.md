@@ -3,24 +3,24 @@
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
 - <b>VulnHub Machines</b>
-  - [VulnHub: Kioptrix Level 1 - Samba Remote Code Execution (CVE-2003-0201)](Network-Pentesting/VulnHub/Kioptrix1.md)
-  - [VulnHub: Mr. Robot - WordPress Enumeration, Credential Hacking & SUID Privilege Escalation](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/MrRobot.md)
-  - [VulnHub: Brainpan 1 - Cross-Platform Windows Binary Reverse Engineering & Linux Buffer Overflow Exploitation](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/Brainpan1.md)
-  - [VulnHub: VulnOS v2 - Web App Package Exploitation & Linux Kernel Privilege Escalation](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: Kioptrix Level 1](Network-Pentesting/VulnHub/Kioptrix1.md)
+  - [VulnHub: Mr. Robot](Network-Pentesting/VulnHub/MrRobot.md)
+  - [VulnHub: Brainpan 1](Network-Pentesting/VulnHub/Brainpan1.md)
+  - [VulnHub: VulnOS v2](Network-Pentesting/VulnHub/VulnOS2.md)
 - <b>OWASP Juice Shop</b>
-  - [OWASP Juice Shop: Comprehensive Application Security Assessment & OWASP Top 10 Audit](https://github.com/irfan-pixelred/Web-Application-Security/JuiceShop/OWASP_Top_10_Audit.md) <b><i>(with 40+ more audit)</b></i>
+  - [OWASP Juice Shop: Comprehensive Application Security Assessment & OWASP Top 10 Audit](Web-Application-Security/JuiceShop/OWASP_Top_10_Audit.md) <b><i>(with 40+ more audit)</b></i>
 - <b>PicoCTF</b>
-  - [PicoCTF: Web Exploitation](https://github.com/irfan-pixelred/CTF-Writeups/PicoCTF/Web_Exploitation.md)
-  - [PicoCTF: Reverse Engineering](https://github.com/irfan-pixelred/CTF-Writeups/PicoCTF/Reverse_Engineering.md)
-  - [PicoCTF: Cryptography](https://github.com/irfan-pixelred/CTF-Writeups/PicoCTF/Cryptography.md)
-  - [PicoCTF: Forensics](https://github.com/irfan-pixelred/CTF-Writeups/PicoCTF/Digital_Forensics.md)
+  - [PicoCTF: Web Exploitation](CTF-Writeups/PicoCTF/Web_Exploitation.md)
+  - [PicoCTF: Reverse Engineering](CTF-Writeups/PicoCTF/Reverse_Engineering.md)
+  - [PicoCTF: Cryptography](CTF-Writeups/PicoCTF/Cryptography.md)
+  - [PicoCTF: Forensics](CTF-Writeups/PicoCTF/Digital_Forensics.md)
 - <b>CTFtime Archive Challenges</b>
-  - [CTFtime Archive: Binary Exploitation (Pwn)](https://github.com/irfan-pixelred/CTF-Writeups/CTFtime/Binary_Exploitation.md)
-  - [CTFtime Archive: Web Security](https://github.com/irfan-pixelred/CTFtime/Advanced_Web.md)
+  - [CTFtime Archive: Binary Exploitation (Pwn)](CTF-Writeups/CTFtime/Binary_Exploitation.md)
+  - [CTFtime Archive: Web Security](CTFtime/Advanced_Web.md)
 - <b>PortSwigger Academy</b>
-  - [PortSwigger: SQL Injection (SQLi) Labs](https://github.com/irfan-pixelred/Web-Application-Security/PortSwigger/SQL_Injection.md)
-  - [PortSwigger: Server-Side Request Forgery (SSRF) Labs](https://github.com/irfan-pixelred/Web-Application-Security/PortSwigger/SSRF_Attacks.md)
-  - [PortSwigger: Cross-Site Scripting (XSS) Labs](https://github.com/irfan-pixelred/Web-Application-Security/PortSwigger/XSS_Exploitation.md)
+  - [PortSwigger: SQL Injection (SQLi) Labs](Web-Application-Security/PortSwigger/SQL_Injection.md)
+  - [PortSwigger: Server-Side Request Forgery (SSRF) Labs](Web-Application-Security/PortSwigger/SSRF_Attacks.md)
+  - [PortSwigger: Cross-Site Scripting (XSS) Labs](Web-Application-Security/PortSwigger/XSS_Exploitation.md)
 
 <h2>📚 Certifications & Target Path</h2>
 
