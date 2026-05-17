@@ -16,7 +16,7 @@
   - [PicoCTF: Forensics](CTF-Writeups/PicoCTF/Digital_Forensics.md)
 - <b>CTFtime Archive Challenges</b>
   - [CTFtime Archive: Binary Exploitation (Pwn)](CTF-Writeups/CTFtime/Binary_Exploitation.md)
-  - [CTFtime Archive: Web Security](CTFtime/Advanced_Web.md)
+  - [CTFtime Archive: Web Security](CTF-Writeups/CTFtime/Advanced_Web.md)
 - <b>PortSwigger Academy</b>
   - [PortSwigger: SQL Injection (SQLi) Labs](Web-Application-Security/PortSwigger/SQL_Injection.md)
   - [PortSwigger: Server-Side Request Forgery (SSRF) Labs](Web-Application-Security/PortSwigger/SSRF_Attacks.md)
