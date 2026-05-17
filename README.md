@@ -3,7 +3,7 @@
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
 - <b>VulnHub Machines</b>
-  - [VulnHub: Kioptrix Level 1 - Samba Remote Code Execution (CVE-2003-0201)](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/Kioptrix1.md)
+  - [VulnHub: Kioptrix Level 1 - Samba Remote Code Execution (CVE-2003-0201)](Network-Pentesting/VulnHub/Kioptrix1.md)
   - [VulnHub: Mr. Robot - WordPress Enumeration, Credential Hacking & SUID Privilege Escalation](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/MrRobot.md)
   - [VulnHub: Brainpan 1 - Cross-Platform Windows Binary Reverse Engineering & Linux Buffer Overflow Exploitation](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/Brainpan1.md)
   - [VulnHub: VulnOS v2 - Web App Package Exploitation & Linux Kernel Privilege Escalation](https://github.com/irfan-pixelred/Network-Pentesting/VulnHub/VulnOS2.md)
