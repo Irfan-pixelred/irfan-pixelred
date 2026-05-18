@@ -26,11 +26,11 @@
 <h2>📚 Certifications & Target Path</h2>
 
 - <b>OSCP (Offensive Security Certified Professional</b>
-  - My dream
+  - Current Target
 - <b>CRTO (Certified Red Team Operator)</b>
-  - In Progress
+  - Soon..
 - <b>OSEP (OffSec Experienced Penetration Tester</b>
-  - In Progress
+  - Soon..
 
 
 
