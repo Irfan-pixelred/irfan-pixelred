@@ -9,7 +9,7 @@
   - [VulnHub: Pinky's Palace (V1 -V4)](Network-Pentesting/VulnHub/VulnOS2.md)
   - [VulnHub: zico2](Network-Pentesting/VulnHub/VulnOS2.md)
   - [VulnHub: FristiLeaks 1.3](Network-Pentesting/VulnHub/VulnOS2.md)
-- <b>OWASP Juice Shop</b>
+- <b>🔓 OWASP Juice Shop</b>
   - [OWASP Juice Shop: Comprehensive Application Security Assessment & OWASP Top 10 Audit](Web-Application-Security/JuiceShop/OWASP_Top_10_Audit.md) <b><i>(with 40+ more audit)</b></i>
 - <b>🚩 PicoCTF</b>
   - [PicoCTF: Web Exploitation](CTF-Writeups/PicoCTF/Web_Exploitation.md)
