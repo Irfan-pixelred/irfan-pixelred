@@ -1,12 +1,14 @@
-<h1>Hi, I'm Irfan! <br/>
+<h1>Hi, I'm Irfan! <br/><a href="https://github.com/joshmadakor1">💉 Penetration Testing</a>, <a href="https://www.linkedin.com/in/joshmadakor/">💼 Vulnerability Assessment</a>, <a href="https://www.youtube.com/c/joshmadakor">📝 Technical Writing & Reporting</a></h1>
 
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
 - <b>VulnHub Machines</b>
-  - [VulnHub: Kioptrix Level 1](Network-Pentesting/VulnHub/Kioptrix1.md)
-  - [VulnHub: Mr. Robot](Network-Pentesting/VulnHub/MrRobot.md)
-  - [VulnHub: Brainpan 1](Network-Pentesting/VulnHub/Brainpan1.md)
-  - [VulnHub: VulnOS v2](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: bWAPP: bee-box (v1.6)](Network-Pentesting/VulnHub/Kioptrix1.md)
+  - [VulnHub: Kioptrix Series (1–5)](Network-Pentesting/VulnHub/MrRobot.md)
+  - [VulnHub: Temple of Doom 1](Network-Pentesting/VulnHub/Brainpan1.md)
+  - [VulnHub: Pinky's Palace (V1 -V4)](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: zico2](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: FristiLeaks 1.3](Network-Pentesting/VulnHub/VulnOS2.md)
 - <b>OWASP Juice Shop</b>
   - [OWASP Juice Shop: Comprehensive Application Security Assessment & OWASP Top 10 Audit](Web-Application-Security/JuiceShop/OWASP_Top_10_Audit.md) <b><i>(with 40+ more audit)</b></i>
 - <b>PicoCTF</b>
