@@ -2,13 +2,21 @@
 
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
-- <b>💻 VulnHub Machines</b>
-  - [VulnHub: bWAPP: bee-box (v1.6)](Network-Pentesting/VulnHub/Kioptrix1.md)
-  - [VulnHub: Kioptrix Series (1–5)](Network-Pentesting/VulnHub/MrRobot.md)
-  - [VulnHub: Temple of Doom 1](Network-Pentesting/VulnHub/Brainpan1.md)
-  - [VulnHub: Pinky's Palace (V1 -V4)](Network-Pentesting/VulnHub/VulnOS2.md)
-  - [VulnHub: zico2](Network-Pentesting/VulnHub/VulnOS2.md)
-  - [VulnHub: FristiLeaks 1.3](Network-Pentesting/VulnHub/VulnOS2.md)
+- <b>💻 OSCP-Like Machines - VulnHub</b>
+  - [VulnHub: BSides Vancouver: 2018 (Workshop) (Basic enumeration, web exploitation)](Network-Pentesting/VulnHub/Kioptrix1.md)
+  - [VulnHub: Brainpan: 1 (Buffer overflow exploitation)](Network-Pentesting/VulnHub/MrRobot.md)
+  - [VulnHub: GoldenEye: 1 (Web enumeration, SQL injection)](Network-Pentesting/VulnHub/Brainpan1.md)
+  - [VulnHub: Jarbas: 1 (Web enumeration, basic Linux privilege escalation)](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: Pinky's Palace: v2 (Web exploitation, file inclusion)](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: Lampião: 1 (Directory traversal, file inclusion)](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: Stapler: 1 (Linux enumeration, privilege escalation)](Network-Pentesting/VulnHub/Kioptrix1.md)
+  - [VulnHub: HackLAB: Vulnix (Web exploitation, credential stuffing)](Network-Pentesting/VulnHub/MrRobot.md)
+  - [VulnHub: LazySysAdmin: 1 (OSINT, Linux privilege escalation)](Network-Pentesting/VulnHub/Brainpan1.md)
+  - [VulnHub: Tommy Boy: 1 (Active Directory enumeration, SMB exploitation)](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: DEFCON Toronto: Galahad (Active Directory enumeration, Kerberos exploitation)](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: DC416: 2016 (Network enumeration, service identification)](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: OwlNest: 1.0.2 (Web enumeration, XSS and RCE exploitation)](Network-Pentesting/VulnHub/VulnOS2.md)
+  - [VulnHub: Pegasus: 1 (Web application vulnerabilities, PHP exploitation)](Network-Pentesting/VulnHub/VulnOS2.md)
 - <b>🔓 OWASP Juice Shop</b>
   - [OWASP Juice Shop: Comprehensive Application Security Assessment & OWASP Top 10 Audit](Web-Application-Security/JuiceShop/OWASP_Top_10_Audit.md) <b><i>(with 40+ more audit)</b></i>
 - <b>🚩 PicoCTF</b>
