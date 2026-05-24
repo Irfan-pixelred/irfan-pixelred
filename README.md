@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
-- <b>VulnHub Machines</b>
+- <b>💻 VulnHub Machines</b>
   - [VulnHub: bWAPP: bee-box (v1.6)](Network-Pentesting/VulnHub/Kioptrix1.md)
   - [VulnHub: Kioptrix Series (1–5)](Network-Pentesting/VulnHub/MrRobot.md)
   - [VulnHub: Temple of Doom 1](Network-Pentesting/VulnHub/Brainpan1.md)
@@ -11,16 +11,16 @@
   - [VulnHub: FristiLeaks 1.3](Network-Pentesting/VulnHub/VulnOS2.md)
 - <b>OWASP Juice Shop</b>
   - [OWASP Juice Shop: Comprehensive Application Security Assessment & OWASP Top 10 Audit](Web-Application-Security/JuiceShop/OWASP_Top_10_Audit.md) <b><i>(with 40+ more audit)</b></i>
-- <b>PicoCTF</b>
+- <b>🚩 PicoCTF</b>
   - [PicoCTF: Web Exploitation](CTF-Writeups/PicoCTF/Web_Exploitation.md)
   - [PicoCTF: Reverse Engineering](CTF-Writeups/PicoCTF/Reverse_Engineering.md)
   - [PicoCTF: Cryptography](CTF-Writeups/PicoCTF/Cryptography.md)
   - [PicoCTF: Forensics](CTF-Writeups/PicoCTF/Digital_Forensics.md)
-- <b>CTFtime Archive Challenges</b>
+- <b>🚩 CTFtime Archive Challenges</b>
   - [Google CTF: Advanced Vulnerability Research, Sandbox Escapes & Binary Analysis](CTF-Writeups/GoogleCTF/README.md)
   - [NahamCon CTF: Enterprise Web Exploitation, Scripting & Threat Tactics](CTF-Writeups/NahamCon/README.md)
   - [DEADFACE CTF: Cyber Threat Intelligence, Traffic Analysis & Incident Response Operations](CTF-Writeups/DeadfaceCTF/README.md)
-- <b>PortSwigger Academy</b>
+- <b>☠︎︎ PortSwigger Academy</b>
   - [PortSwigger: SQL Injection (SQLi) Labs](Web-Application-Security/PortSwigger/SQL_Injection.md)
   - [PortSwigger: Cross-Site Scripting (XSS) Labs](Web-Application-Security/PortSwigger/XSS_Exploitation.md)
   - [PortSwigger: Cross-site request forgery (CSRF)](Web-Application-Security/PortSwigger/XSS_Exploitation.md)
